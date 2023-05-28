@@ -1,7 +1,7 @@
 # Sorcerer's and Champions
 
 ### Synopsis
-<p>Sorcerer's and Champions is a 2 versus 2 sword-fight chess game made with a lot of home made equipment comprised of aluminum and makey makey connecting all of the controllers.</p>
+<p>Sorcerer's and Champions is a 2 versus 2 sword-fighting, chess game made with a lot of home-made equipment comprised of aluminum with makey-makey connecting all of the controllers to the computer.</p>
 
 #### Controllers
 <ul>
